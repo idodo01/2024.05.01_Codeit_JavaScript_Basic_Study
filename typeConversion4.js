@@ -1,6 +1,11 @@
 // 형 변환(Type Conversion)
 // Boolean 함수를 이용하여, 불린형으로 변환하기
+
 // 문자 ''와 숫자 0만 false
+// 여기서 주의할 점은, 문자 ' '은 true
+
+// Boolean(NaN)도 false
+
 
 // 1. 문자
 let x = '문자';
