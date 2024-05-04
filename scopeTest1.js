@@ -8,3 +8,11 @@ function myFunction() { // 블록문(Block Statement)
 
 myFunction();
 console.log(x); // 3
+
+
+/* <실행 결과>
+
+3
+3
+
+*/
