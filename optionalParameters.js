@@ -1,5 +1,5 @@
 // 옵셔널 파라미터 (Optional Parameters)
-// 마지막 파라미터로 사용되어야 밀림 현상 없음
+// 가장 뒤쪽에 선언되어야, 밀림 현상 없음
 
 function introduce(name, age, nationality = '한국') {
   console.log(`이름: ${name}`); 
